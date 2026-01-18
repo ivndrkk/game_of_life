@@ -25,3 +25,5 @@ Grid of cells, each alive or dead. Every generation, cells check their 8 neighbo
 
 ```bash
 python main.py
+
+Ctrl+C to stop
