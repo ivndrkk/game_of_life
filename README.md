@@ -5,7 +5,8 @@ Terminal implementation of Conway's cellular automaton with color visualization 
 ## Demo
 <img width="1083" height="1429" alt="screenshot_1" src="https://github.com/user-attachments/assets/2caf5ee0-ee07-4d58-b700-48dbbaf0b2ff" />
 <img width="747" height="254" alt="screenshot_2" src="https://github.com/user-attachments/assets/085f5cb2-c6a2-49b4-b6ae-60b50149e728" />
-![gameoflifegif](https://github.com/user-attachments/assets/9c0eb989-07de-488f-8c05-61035dc8a260)
+![gameoflifegif](https://github.com/user-attachments/assets/98c8321c-8688-40ab-b056-ab23039bb525)
+
 
 ## What it does
 
